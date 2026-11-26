@@ -1,3 +1,4 @@
+<div align="center">
 
 # BARBA DOCKY
 
@@ -5,28 +6,16 @@
 
 ---
 
-### [ SYSTEM.IDENTITY ]
+### `[ SYSTEM.IDENTITY ]`
 
-Exploring the intersection of technology, systems and digital security.
-
-I enjoy understanding how things work, experimenting with different technologies and building projects through continuous learning.
-
-Currently developing and exploring projects related to:
-
-- Linux and operating systems
-- Cybersecurity and digital security
-- Computer networks and infrastructure
-- Programming and software development
-- Digital forensics and cryptography
-- Open-source technologies
+Exploring the intersection of technology, systems, and digital security.  
+Focused on understanding how things work under the hood, experimenting with new architectures, and building projects through continuous learning.
 
 ---
 
-### [ SYSTEM.ARTWORK ]
+### `[ SYSTEM.ARTWORK ]`
 
-```text
-                                                                                                                                                                                    
-                                                                                                                                                                
+<pre>
                                                                             ####mmMM--::                                                                        
                                                                       ################@@++####                                                                  
                                                                   ##@@########################::@@                                                              
@@ -95,51 +84,49 @@ Currently developing and exploring projects related to:
 ::##############################################################################################################################################################
 ################################################################################################################################################################
 ################################################################################################################################################################
+</pre>
 
 ---
 
-### [ CURRENT.STATUS ]
+### `[ CURRENT.STATUS ]`
 
-```text
-STATUS       : ACTIVE
-FOCUS        : TECHNOLOGY & SECURITY
-EXPERIENCE   : INTERMEDIATE
-MODE         : BUILDING / LEARNING
-ENVIRONMENT  : DIGITAL
-```
+| PARAMETER | VALUE |
+| :--- | :--- |
+| **STATUS** | `ACTIVE` |
+| **FOCUS** | `TECHNOLOGY & SECURITY` |
+| **EXPERIENCE** | `INTERMEDIATE` |
+| **MODE** | `BUILDING / LEARNING` |
+| **ENVIRONMENT** | `DIGITAL` |
 
 ---
 
-### [ AREAS.OF.INTEREST ]
+### `[ AREAS.OF.INTEREST ]`
 
 | DOMAIN | FOCUS |
-|:---|:---|
-| SYSTEMS | Linux / Operating Systems |
-| SECURITY | Cybersecurity / Pentesting Studies |
-| NETWORKS | Networking / Infrastructure |
-| DEVELOPMENT | Programming / Software |
-| FORENSICS | Digital Investigation |
-| RESEARCH | Cryptography / Steganography |
-| OPEN SOURCE | Tools / Projects / Collaboration |
+| :--- | :--- |
+| **SYSTEMS** | Linux & Operating Systems |
+| **SECURITY** | Cybersecurity & Pentesting Studies |
+| **NETWORKS** | Networking & Infrastructure |
+| **DEVELOPMENT** | Programming & Software Architecture |
+| **FORENSICS** | Digital Investigation |
+| **RESEARCH** | Cryptography & Steganography |
+| **OPEN SOURCE** | Tools, Projects & Collaboration |
 
 ---
 
-### [ PROJECTS ]
+### `[ PROJECTS ]`
 
-A collection of experiments, personal projects, technical studies and open-source explorations.
-
-More projects coming as I build, learn and experiment.
-
----
-
-### [ PHILOSOPHY ]
-
-```text
-Understand the system.
-Explore the unknown.
-Build something meaningful.
-```
+A curated collection of experiments, technical studies, and open-source explorations.  
+*More repositories coming as I build, break, and learn.*
 
 ---
 
-<sub>END OF TRANSMISSION // BARBA DOCKY</sub>
+### `[ PHILOSOPHY ]`
+
+> *"Understand the system. Explore the unknown. Build something meaningful."*
+
+---
+
+<sub>`END OF TRANSMISSION // BARBA DOCKY`</sub>
+
+</div>
